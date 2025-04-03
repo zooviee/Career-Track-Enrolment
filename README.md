@@ -18,5 +18,5 @@ At the end of the visualization analysis using Tableau, we want to answer the fo
 
 ## My Tableau Dashboard
 Check out my interactive dashboard on Tableau Public:  
-[🔗 View Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/oluwaseyi.akinsanya/viz/CareerTrackEnrollment/CareerTrackEnrollment))
+[🔗 View Dashboard]([(https://public.tableau.com/app/profile/oluwaseyi.akinsanya/viz/CareerTrackEnrollment/CareerTrackEnrollment))
 
