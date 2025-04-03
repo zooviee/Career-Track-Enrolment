@@ -15,3 +15,8 @@ At the end of the visualization analysis using Tableau, we want to answer the fo
 3. What is the career track completion rate? Can you say if it’s increasing, decreasing, or staying constant with time?
 4. How long does it typically take students to complete a career track? What type of subscription is most suitable for students who aim to complete a career track: monthly, quarterly, or annual?
 5. What advice and suggestions for improvement would you give the 365 team to boost engagement, increase the track completion rate, and motivate students to learn more consistently? 
+
+## My Tableau Dashboard
+Check out my interactive dashboard on Tableau Public:  
+[🔗 View Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/oluwaseyi.akinsanya/viz/CareerTrackEnrollment/CareerTrackEnrollment))
+
